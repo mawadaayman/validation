@@ -1,0 +1,153 @@
+body{
+    height: 3200px;
+}
+
+p{
+    font-size: 40px;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+}
+.section1{ 
+    padding: 30px 30px 30px 30px ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.relative{
+    position: relative;
+    opacity: .9;
+    content: "";
+
+
+}
+
+.absolute{
+    display: flex;
+justify-content: center;
+    color: white;
+    font-size: xx-large;
+
+    position: absolute;
+    top: 50px; ;
+    right: 50px;
+    bottom: 50px;
+    left:50px ;
+}
+
+.section2{
+    background-color: rgb(235, 227, 227);
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+
+ button{
+    
+     size: 300px;
+    color: darkgreen;
+    border: 2px solid darkgreen;
+
+}
+
+.section3{
+    width: 100%;
+    background-color: rgb(200, 200, 200);
+display: flex;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+
+}
+
+
+
+
+
+.section5{
+    background-color: rgb(200, 200, 200);
+display: flex;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+
+}
+
+.section6{
+    
+    background-color: rgb(200, 200, 200);
+    padding: 50px auto;
+display: flex;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+
+}
+
+.section8{
+    background-color: rgb(215, 215, 215);
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.section7{
+    background-color: rgb(183, 183, 183);
+display: flex;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-around;
+}
+
+
+.ul{
+    background-color: rgb(248, 248, 248);
+    display: flex;
+    justify-content: end;
+    justify-content: space-between;
+}
+
+.style{
+    background-color: darkgrey;
+}
+
+
+.sign{
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+ border: gray solid 2px;
+}
+
+.sign-in{
+    color: black;
+    font-size: large;
+  text-decoration: none;
+
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
